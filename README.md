@@ -31,7 +31,7 @@ The following command casts a quote-like block
 > This text is a quote.
 
 
-## Ordered List
+## Lists
 
 If you want numerals, just star a list like this:
 1. First
